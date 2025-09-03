@@ -1,2 +1,2 @@
 #!/bin/sh
-tce-load -wi git.tcz openssh.tcz fluid.tcz make.tcz
+tce-load -wil git.tcz openssh.tcz fluid.tcz make.tcz
