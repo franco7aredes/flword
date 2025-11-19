@@ -1,2 +1,2 @@
 #!/bin/sh
-g++ tinyword.cxx -o tinyword $(fltk-config --cxxflags --ldflags)
+g++ flword.cxx -o flword $(fltk-config --cxxflags --ldflags)
